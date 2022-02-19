@@ -1,0 +1,4 @@
+En javaScript  (Lenguaje de programacione) existen lo que son las Variables: LO utilizamos para almacenar y asig.. existen tres formas de declarar una variable;  var, let  y const.
+Tenemos tres tipos de datos en JavaScript; Strings, Numbers y Booleans. En el Primero  siempre que se defina entre commilas es un str.y los valores de los datos booldeans son false o true.
+Las funciones comienzan con la palbra fuction y  luego va un parentesis que abre y cierra. Luego entre corchetes es donde va el codigo a ejecutar. Ahora se puede pasarle argumentos.
+losw operadores de comparacion y control de flujo , es una forma en la que nuestra funcion verifique si algo es true o false . sino tambien utilizan os la plabra clave if(si).
