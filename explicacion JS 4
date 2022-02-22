@@ -1,0 +1,6 @@
+Un objeto en JavaScript es un contenedor de propiedades, donde una propiedad tiene un nombre y un valor. El nombre de una propiedad puede ser una cadena de caracteres, incluso una vacía. El valor de la propiedad puede ser cualquier valor que podamos utilizar en JavaScript, excepto undefined.
+Un metodo es una función la cual es propiedad de un Objeto. ... Nota: En JavaScript las funciones en si son objectos, asi que, en ese contexto, un método es de hecho un objeto de referencia (en-US) a una función.
+La instrucción for-in itera sobre todas las propiedades enumerables de un objeto que está codificado por cadenas (ignorando los codificados por Símbolos , incluidas las propiedades enumerables heredadas
+En Javascript podemos acceder a las propiedades y/o funciones de un objeto usando cualquier notación: el punto . o los corchetes [] .
+Cuando usamos corchetes podemos acceder a propiedades que tienen un espacio o carácter no permitido en la notación de punto (por ejemplo, miMascota.numero de amigos no es válido, pero miMascota["numero de amigos"] sí lo es).
+Si queremos minificar nuestro código, la notación del punto no es válida... debemos usar la notación de corchetes.
